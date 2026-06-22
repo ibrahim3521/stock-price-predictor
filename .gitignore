@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+.DS_Store
+venv/
+# keep the folders but ignore generated contents
+data/*.csv
+outputs/*.csv
